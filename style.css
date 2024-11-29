@@ -1,0 +1,30 @@
+body{
+height: 500px;
+width: 400px;
+text-align: center;
+padding: 10px 0;
+margin: 30px auto;
+border: 0 solid rgba(0,0,0, 0.22);
+box-shadow: 8px 11px 40px rgba(0,0,0, 0.22), 12px 8px 34px rgba(3, 3, 3, 0.33);
+}
+input {
+    margin: 10px 0;
+font-size: 20px;
+border-top: none;
+border-left: none;
+border-right: none;
+
+}
+button{
+    margin: 10px 0;
+    font-size: 30px;
+background: rgb(200,150,100);
+outline: none;
+border: none;
+border-radius: 5px;
+margin: 10px 5px;
+
+}
+.-result {
+padding: 25px;
+}
